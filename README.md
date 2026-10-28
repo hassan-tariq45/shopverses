@@ -2,8 +2,10 @@
 
 A responsive e-commerce web app built with **React.js** (Vite).
 
-**Live demo:** _add your Vercel link here_
-**Student:** _your name / roll no._
+Vercel link here: https://shopverses.vercel.app/
+Student information: 
+                     Name: Muhammad Hussain
+                     Roll no: 24-Arid-5081
 
 ## Features
 - Product listing from the Fake Store API with search, category filter and price sorting
